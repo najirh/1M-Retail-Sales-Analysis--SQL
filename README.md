@@ -1,4 +1,4 @@
-# 1M-Retail-Sales-Analysis (Fake Apple Retail Sales)--SQL
+# Fake Apple Retail Sales (1M Rows)--SQL
 
 ---
 
